@@ -1,0 +1,22 @@
+/*
+Theme Name: Dog Knees Games
+Theme URI:
+Version: 0.0.1
+Description: Design Minds company theme
+Date: 25/01/15
+Author: Design Minds
+Author URI: http://designminds.com.au
+GitHub Theme URI: https://github.com/kurtwolff95/DogKnees
+GitHub Branch: master
+Tags: design, minds, we, make, websites, for, small, business, dogknees
+*/
+/*Font Styling*/
+@import url('styles/fonts.css');
+/*Normalize Styling*/
+@import url('styles/normalize.css');
+/* General Styling*/
+@import url('styles/style.css');
+/*Responsive Styling*/
+@import url('styles/response.css');
+/*Mobile Styling*/
+@import url('styles/mobile.css');
