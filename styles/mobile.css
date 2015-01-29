@@ -72,6 +72,7 @@ only screen and (min-resolution: 1.1dppx)
 	{
 		z-index: 9;
 		display: inline-block;
+		height: 100%;
 	}
 	#navigationmenu
 	{
