@@ -601,6 +601,10 @@ img.attachment-post-thumbnail.wp-post-image
 {
 	width: 100%;
 }
+.ms-thumbs-cont
+{
+	left: 5px !important;
+}
 .ms-view
 {
 	max-width: 100%;
